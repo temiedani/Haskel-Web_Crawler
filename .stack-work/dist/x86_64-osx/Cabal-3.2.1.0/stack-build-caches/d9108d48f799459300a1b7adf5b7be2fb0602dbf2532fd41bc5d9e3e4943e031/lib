@@ -1,0 +1,20 @@
+? /Users/temiedani/Desktop/QMUL/Functional Programming/Practice/crawler/.stack-work/dist/x86_64-osx/Cabal-3.2.1.0/build/autogen/cabal_macros.h
+: hash: d51bdbfb097760d29eee6ccd1a12c925c01a17edb87d39a087fcf7a8b8c44738
+/Users/temiedani/Desktop/QMUL/Functional Programming/Practice/crawler/src/Types.hs:
+  hash: 52b0b12b983b71a3962531d9a86300acb125992529cfa2fa3190f22ced299648
+/Users/temiedani/Desktop/QMUL/Functional Programming/Practice/crawler/ChangeLog.md:
+  hash: 273f561ebcc781f6816f545176d68eeea79568f190b57a25b7707fb790d2f1b6
+/Users/temiedani/Desktop/QMUL/Functional Programming/Practice/crawler/src/Fetch.hs:
+  hash: 14f03f86e6bc70ed772d5cd9a5721aa1fef0efb98f2ac4315d0cf600cbc6b3ad
+/Users/temiedani/Desktop/QMUL/Functional Programming/Practice/crawler/package.yaml:
+  hash: 27bc406f141c419bab23ef29ad106b4bfe7b43bf8a04904abea0aab543530846
+/Users/temiedani/Desktop/QMUL/Functional Programming/Practice/crawler/README.md:
+  hash: c7124e891adbc5f8ab76297decd1a7699a54c9cf19a9461514910962bc65ae4b
+/Users/temiedani/Desktop/QMUL/Functional Programming/Practice/crawler/src/Database.hs:
+  hash: cb6baed7a0556722873e5ebdc0f5f089bd7eac2a6ebdaea57543d89ffcdbbf50
+/Users/temiedani/.stack/programs/x86_64-osx/ghc-8.10.7/lib/ghc-8.10.7/include/ghcversion.h:
+  hash: c013160c9aa8a98f4638616496dce720c23ceca8ef9d6b3212b654642fbda5e4
+? /Users/temiedani/Desktop/QMUL/Functional Programming/Practice/crawler/.stack-work/dist/x86_64-osx/Cabal-3.2.1.0/build/autogen/Paths_crawler.hs
+: hash: 92a155563d417cc1a0075f7707400471fba66855f175400894f70194e16f3b7f
+/Users/temiedani/Desktop/QMUL/Functional Programming/Practice/crawler/crawler.cabal:
+  hash: c7dba19a20f7dbc6fe530d70c9ce9385614d4f7985e7f9b43ddf1f085c9d3bcb
